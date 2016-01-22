@@ -1,0 +1,11 @@
+/*
+ * mobile css
+ */
+
+.pk-header h1 {font-size: 28px;}
+.pk-header h3 {font-size: 19px; font-weight: 700;}
+
+body {text-align: center !important;}
+.bnt-down {display: none;}
+.device-full {width: 392px; display: none;}
+.device-mobile {display: block;}
