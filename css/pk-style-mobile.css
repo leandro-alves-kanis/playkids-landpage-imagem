@@ -2,10 +2,21 @@
  * mobile css
  */
 
-.pk-header h1 {font-size: 28px;}
+.pk-header h1 {font-size: 26px;}
 .pk-header h3 {font-size: 19px; font-weight: 700;}
+.pk-header h1, .pk-header h3 {
+	color: #FFF;
+	text-shadow: 0px 2px 2px rgba(0,0,0,0.2);
+}
 
 body {text-align: center !important;}
 .bnt-down {display: none;}
 .device-full {width: 392px; display: none;}
 .device-mobile {display: block;}
+.pk-header {
+	background-size: 932px;
+	background-position: 75% top;
+    height: 530px;
+	box-shadow: inset 0px 400px 600px -220px rgba(0,0,0,0.9);
+}
+.logo-playkids {margin: 0;}

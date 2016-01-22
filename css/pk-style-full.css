@@ -8,7 +8,7 @@
 .pk-header {
 	background-image: url("../imgs/world-bg-high.jpg");
 	background-position: bottom;
-    background-size: 1645px;
+    background-size: 1290px;
 }
 
 .bnt-down{
@@ -16,10 +16,11 @@
     padding: 34px 23px;
     color: #FFF;
     position: absolute;
-    top: 540px;
+    top: 456px;
 }
 
 .btn-quote {padding-left: 60px; padding-right: 60px;}
 
 .device-full {margin-left: -90px; width: 800px; display: block;}
 .device-mobile {display: none;}
+.subcall {margin-bottom: 100px;}
