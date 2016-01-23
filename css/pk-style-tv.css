@@ -1,3 +1,8 @@
 .pk-header{
-    background-size: auto;
+    background-size: 100%;
+	background-image: url("../imgs/world-bg-high.jpg");
+	background-position: center;
 }
+.bnt-down {display: block;}
+header {padding-bottom: 0;}
+.subcall {margin-bottom: 90px;}

@@ -2,8 +2,8 @@
  * mobile css
  */
 
-.pk-header h1 {font-size: 26px;}
-.pk-header h3 {font-size: 19px; font-weight: 700;}
+.pk-header h1 {font-size: 35px;}
+.pk-header h3 {font-size: 20px; font-weight: 700;}
 .pk-header h1, .pk-header h3 {
 	color: #FFF;
 	text-shadow: 0px 2px 2px rgba(0,0,0,0.2);

@@ -2,25 +2,20 @@
  * screen css
  */
 
-.pk-header h1 {font-size: 48px;}
-.pk-header h3 {font-size: 24px; font-weight: 700;}
+.pk-header h1 {font-size: 40px;}
+.pk-header h3 {font-size: 20px; font-weight: 700;}
 
 .pk-header {
 	background-image: url("../imgs/world-bg-high.jpg");
-	background-position: bottom;
-    background-size: 1290px;
+	background-position: center;
+    background-size: 115%;
 }
 
 .bnt-down{
-    background-image: url("../imgs/bnt-down.png");
-    padding: 34px 23px;
-    color: #FFF;
-    position: absolute;
-    top: 456px;
+    height: 64px;
 }
 
 .btn-quote {padding-left: 60px; padding-right: 60px;}
-
-.device-full {margin-left: -90px; width: 800px; display: block;}
-.device-mobile {display: none;}
-.subcall {margin-bottom: 100px;}
+.subcall {margin-bottom: 40px;}
+.bnt-down {display: block;}
+header {padding-bottom: 0;}
